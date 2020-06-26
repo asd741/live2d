@@ -9,5 +9,4 @@ document.write(`
 <script src="live-2d/src/LAppLive2DManager.js"></script>
 <script src="live-2d/src/SampleApp1.js"></script>
 <script src="live-2d/lib/jquery-1.7.2.min.js"></script>
-<script src="mouse/mouse_js/fontAnimate.js"></script>
 `)
